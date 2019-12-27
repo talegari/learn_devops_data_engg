@@ -1,7 +1,6 @@
-# learn_devops_data_engg
-(wip) Notes on learnings from model deployment, REST API setup and tools
+# Notes on devops, data engineering and microservices
 
-This covers the live scenario. The batch prediction mode is well explored.
+(wip) Notes on learnings from model deployment, REST API setup, microservices and tools. This mostly covers the live scenario. The batch prediction mode is well explored.
 
  - [ ] Create REST API for a scikit-learn model. Options: [flask](https://towardsdatascience.com/deploying-models-to-flask-fb62155ca2c4), [openscoring](openscoring) (with pmml), ngnix
 - [ ] Deploy using kubernetes / docker. Explore kubeflow.
