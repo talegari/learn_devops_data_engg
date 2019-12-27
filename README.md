@@ -9,7 +9,7 @@
 - [ ] Package the four steps above for quick deployment
 
 ----
-- [ ] Extend the abobe for R models. Options: [http://restrserve.org/](https://github.com/rexyai/RestRserve), [plumber](https://www.rplumber.io/)
+- [ ] Extend the abobe for R models. Options: [restrserve](https://github.com/rexyai/RestRserve), [plumber](https://www.rplumber.io/), [opencpu](https://www.opencpu.org/)
 - [ ] Extend the above for a tensorflow model. Options: [tensorflow serve](https://www.tensorflow.org/tfx/tutorials/serving/rest_simple)
 - [ ] Extend the above for spark models. Options: [mleap](https://mleap-docs.combust.ml/), [mlflow](https://mlflow.org/docs/latest/models.html)
 
