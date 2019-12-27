@@ -18,3 +18,7 @@ This covers the live scenario. The batch prediction mode is well explored.
 [ ] Extend the above for a tensorflow model. Options: [tensorflow serve](https://www.tensorflow.org/tfx/tutorials/serving/rest_simple)
 
 [ ] Extend the above for spark models. Options: [mleap](https://mleap-docs.combust.ml/), [mlflow](https://mlflow.org/docs/latest/models.html)
+
+----
+## Good reads
+- [microservices and Datascience](https://mapr.com/blog/top-technology-trends-machine-learning-event-driven-microservices-dataops-and-cloud-to-edge/)
