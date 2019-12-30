@@ -8,7 +8,7 @@
 - Learn how to live update the model without stopping the service
     - [ ] Mleap
     - [ ] openscoring
-- [ ] Package the four steps above for quick deployment
+- Package the four steps above for quick deployment
     - [ ] Mleap
     - [ ] openscoring
 
